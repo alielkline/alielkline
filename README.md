@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ali Elkline, and I'm a software developer from Suez,Egypt</h2>
+<h2 align="left">Hi 👋! My name is Ali Elkline, and I'm a software developer from Suez, Egypt</h2>
 
 # 💫 About Me:
 Third-year Computers & Information student at Suez University<br>with a strong passion for Machine Learning.<br>Enthusiastic about AI-driven solutions.<br>
