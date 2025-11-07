@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Ali Elkline, and I'm a software developer from Suez, Egypt</h2>
+<h1 align="left">Hi 👋! My name is Ali Elkline, and I'm a software developer from Suez, Egypt</h1>
 
 # 💫 About Me:
 Third-year Computers & Information student at Suez University<br>with a strong passion for Machine Learning.<br>Enthusiastic about AI-driven solutions.<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ali_elkliine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alielkline/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alielkline7@gmail.com) 
 
 # 💻 Tech Stack:
