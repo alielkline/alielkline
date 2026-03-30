@@ -14,9 +14,6 @@ Third-year Computer & Information student at Suez University<br>with a strong pa
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alielkline&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
