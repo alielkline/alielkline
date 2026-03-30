@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Ali Elkline, and I'm an AI and Backend Developer from Suez, Egypt</h1>
+<h1 align="left">Hi 👋! My name is Ali Elkline, and I'm an Software Developer from Egypt</h1>
 
 # 💫 About Me:
 Third-year Computer & Information student at Suez University<br>with a strong passion for Machine Learning.<br>Enthusiastic about AI-driven solutions.<br>
@@ -13,10 +13,6 @@ Third-year Computer & Information student at Suez University<br>with a strong pa
 <!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alielkline&theme=moltack&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alielkline&theme=moltack&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alielkline&theme=moltack&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alielkline&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
