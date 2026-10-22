@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋! My name is Ali Elkline, and I'm an Software Developer from Egypt</h1>
 
 # 💫 About Me:
-Third-year Computer & Information student at Suez University<br>with a strong passion for Machine Learning.<br>Enthusiastic about AI-driven solutions.<br>
+Fourth-year Computer & Information student at Suez University<br>with a strong passion for Software Engineering.<br>Enthusiastic about AI-driven solutions.<br>
 
 
 # 🌐 Socials:
